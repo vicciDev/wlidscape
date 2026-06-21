@@ -29,7 +29,7 @@ The prototype focuses on:
 * Visual design and navigation
 * Early interaction concepts
 * Exploring what a nature social platform could become
-Core functionality accounts, real posts, live data, and backend features—is intentionally limited or not yet implemented.
+Core functionality accounts, real posts, live data, and backend features is intentionally limited or not yet implemented.
 
 # Why wildScape?
 
